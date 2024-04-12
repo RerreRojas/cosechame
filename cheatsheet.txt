@@ -1,0 +1,42 @@
+    1  git init
+    2  git add index.html
+    3  git status
+    4  git add .
+    5  git commit -m "un commit con Lautaro"
+    6  git status
+    7  git remote add origin https://github.com/RerreRojas/direc-rerre.git
+    8  git branch -M main
+    9  git push -u origin main
+   10  git remote add origin https://github.com/RerreRojas/direc-rerre.git
+   11  git branch -M main
+   12  git push -u origin main
+   13  git add .
+   14  git commit -m "un cambio de prueba"
+   15  git commit -m "funciona este cambio?"
+   16  git add index.html
+   17  git commit -m "este si?"
+   18  git push
+   19  git status
+   20  git add index.html
+   21  git status
+   22  git commit -m "ahorasiquesi"
+   23  git status
+   24  git push
+
+   Aquí empecé cuando 
+   
+   25  git init
+   26  git add .
+   27  git commit -m "estoy guardando"
+
+   28  aquí había un push, pero me adelanté
+
+   29  git remote add origin https://github.com/RerreRojas/cosechame.git
+   30  git branch -M main
+   31  git push -u origin main
+   32  git remote add origin https://github.com/RerreRojas/cosechame.git
+   33  git remote
+   34  git push
+   35  git push --set-upstream origin main
+   36  history
+   37  history >cheatsheet.txt
